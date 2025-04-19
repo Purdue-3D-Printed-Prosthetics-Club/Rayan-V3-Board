@@ -415,6 +415,10 @@
     [
       "027bb16e-db99-46ff-8c5f-fbcc189ef338",
       "Esp32"
+    ],
+    [
+      "596d5146-e64e-4059-a948-e901d66eab9d",
+      "TB6612FNG Motor Controllers"
     ]
   ],
   "text_variables": {}
